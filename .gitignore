@@ -1,0 +1,6 @@
+.env
+**/__pycache__/
+*.pkl
+confusion_matrix.png
+*.cbm
+catboost_info
